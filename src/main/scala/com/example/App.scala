@@ -21,7 +21,7 @@ object App {
 //      new ColumnPaginationFilter(2, 1),
 //      new InclusiveStopFilter(toBytes(23.toString)),
 //      fieldShouldEqualFilter("acctKey",Bytes.toBytes("4774785232413492367")),
-//      inRangeOfFilter("da",toBytes("3540810929681912437"),toBytes("7540810929681912437"))
+//      inRangeOfFilter("date",toBytes("3540810929681912437"),toBytes("7540810929681912437"))
     ))
 
 
